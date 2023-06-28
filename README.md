@@ -9,3 +9,4 @@
 9. git reset --hard   отменяет все изменения
 10. git branch [name] - создание новой ветки
 11. git checkout - переключение между ветками
+12. git branch [name] -D удаление ветки
