@@ -10,3 +10,4 @@
 10. git branch [name] - создание новой ветки
 11. git checkout - переключение между ветками
 12. git branch [name] -D удаление ветки
+13. git merge - слияние веток
