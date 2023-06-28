@@ -7,3 +7,5 @@
 7. git branch - название ветки
 8. git reset [file] - удалить файл
 9. git reset --hard   отменяет все изменения
+10. git branch [name] - создание новой ветки
+11. git checkout - переключение между ветками
