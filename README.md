@@ -3,3 +3,7 @@
 3. git commit -m 'comment' - запись
 4. git log / git log --oneline
 5. git push [rep_link] [branch_name]
+6. git remote -v - ссылка на репозиторий
+7. git branch - название ветки
+8. git reset [file] - удалить файл
+9. git reset --hard   отменяет все изменения
